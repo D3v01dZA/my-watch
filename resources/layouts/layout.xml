@@ -1,0 +1,4 @@
+<layout id="WatchFace">
+    <drawable class="MyWatchBackground" />
+    <drawable class="MyWatchTime" />
+</layout>
